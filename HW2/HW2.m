@@ -12,7 +12,7 @@ clc;
 %%%%%%%%%%%%%%%%%
 
 % readin the image to be quantized.
-img = imread('C:\Hrishi_documents\SDSU\SPRING_2018\COMPE_565\HW2\Flooded_house.jpg','jpg');
+img = imread('~/Flooded_house.jpg','jpg');
 % converting to YCbCr
 ycbcr = rgb2ycbcr(img);
 

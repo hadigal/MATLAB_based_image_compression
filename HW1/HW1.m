@@ -8,7 +8,7 @@ clear all;
 clc;
 %QUESTION-1: READ AND DISPLAY THE IMAGE
 
-hkbimg=imread('C:\Hrishi_documents\SDSU\SPRING_2018\COMPE_565\HW1\HW1_819708988_822094228\Flooded_house.jpg','jpg');
+hkbimg=imread('~/Flooded_house.jpg','jpg');
 figure(1);
 imshow(hkbimg);
 title('Real Image');

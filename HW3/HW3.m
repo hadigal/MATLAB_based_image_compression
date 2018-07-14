@@ -9,7 +9,7 @@ clear all;
 clc;
 
 % Reading the football video sequence.
-v_obj = VideoReader('C:\Hrishi_documents\SDSU\SPRING_2018\COMPE_565\HW3\HW3_819708988_822094228\football_qcif.avi');
+v_obj = VideoReader('~/football_qcif.avi');
 i = 0;
 j = 1;
 width = v_obj.Width;
