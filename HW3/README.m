@@ -6,7 +6,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % THIS IS A README FOR HW3-COMPE565
-% The code for the HW is implemented in the script HW2_819708988_82209422.m
+% The code for the HW is implemented in the script HW2.m
 % covering all the question of HW3
 
 %%%%%%%%%%%%%%%%

@@ -6,7 +6,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % THIS IS A README FOR HW2-COMPE565
-% The code in the script HW2_819708988_822094228.m cover all the HW2
+% The code in the script HW2.m cover all the HW2
 % questions
 % INSTRUCTIONS for the grader:
 % - Please edit the following lines in code submitted before running with
